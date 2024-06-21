@@ -12,7 +12,6 @@ from chromadb.config import Settings
 
 client = chromadb.Client()
 
-secret = "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"
 
 collection = client.create_collection(name="Students")
 
