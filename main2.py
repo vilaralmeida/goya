@@ -9,7 +9,6 @@ from langchain.schema import Document
 import os
 
 
-os.environ['OPENAI_API_KEY'] = "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"
 
 
 class Genie:
