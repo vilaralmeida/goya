@@ -8,9 +8,6 @@ from typing import List
 from langchain.schema import Document
 import os
 
-
-
-
 class Genie:
 
     def __init__(self, file_path: str):

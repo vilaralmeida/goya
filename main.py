@@ -10,7 +10,7 @@ from langchain.schema import Document
 import os
 from chromadb.config import Settings
 
-client = chromadb.Client()
+client = chromadb.Client()   
 
 
 collection = client.create_collection(name="Students")
