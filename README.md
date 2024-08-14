@@ -16,8 +16,8 @@ Atendendo aos objetivos específicos, espera-se que o produto possa responde as 
 
 - Vigencia: Identificar a vigência dos normativos e ser possível de sinalizar quando deverá ser atualizado.
 - Conflitos entre normativos: Identificar possíveis conflitos entre normativos, identificando pontualmente quais as correções necessárias ara remover inconsistências
-- Atualização dos Normativos: Identificar 
-- Contextualização: 
+- Atualização dos Normativos: Identificar situação de cada normativo e atualizações referentes ao período de vigência
+- Contextualização: Ser capaz de identificar informações críticas sobre normativos/políticas e eventuais conflitos entre eles
 
 
 ### Visão Macro
