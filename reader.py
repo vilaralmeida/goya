@@ -44,7 +44,7 @@ data = text.split(';')
 # print(text.split('\n\n'))
 
 for var in data:
-    file1=open(r".\db\\1.txt","a", encoding="utf-8")
+    file1=open(r".\db\\3.txt","a", encoding="utf-8")
     file1.writelines(var + '\n')
 
 # file1=open(r".\db\\1.txt","a", encoding="utf-8")
