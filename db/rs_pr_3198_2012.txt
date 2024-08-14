@@ -1,0 +1,167 @@
+Anexo da RS Nº 3198/2012
+Política de Segurança Física e Patrimonial da Dataprev
+1Justificativa
+A Dataprev, na condição de empresa pública federal vinculada ao Ministério da Previdência  
+Social, é responsável, dentre outros, pela base de dados e pela sustentação de sistemas de  
+cunho social extremamente relevantes para o país, especialmente nas áreas da previdência,  
+trabalho  e  receita.  Esses  dados,  bem  como  os  sistemas  que  os  sustentam,  estão  
+hospedados nos Centros de Processamento Rio de Janeiro, São Paulo e Brasília, sendo  
+compromisso da Empresa a promoção da segurança e integridade dos mesmos.
+Além desses centros de processamento, a Dataprev possui em todo território nacional 05  
+(cinco) unidades de desenvolvimento de software, 22 (vinte e duas) unidades regionais e 05  
+(cinco) unidades de atendimento, além dos órgãos de gestão e a direção da Empresa  
+(administração central) instalados em 02  (dois) prédios situados no Rio de Janeiro e em  
+Brasília.
+Para assegurar esse compromisso com a sociedade no que tange à guarda e segurança  
+das informações, assim como proteger a integridade física de suas instalações e de seus  
+colaboradores,  é  de  suma importância  a  instituição  da  Política  de  Segurança  Física  e  
+Patrimonial da Dataprev. 
+O reconhecimento dos riscos é um fator inerente ao processo decisório e requer que a  
+administração analise as informações relacionadas aos ambientes interno e externo, utilize  
+seus recursos e ajuste as atividades frente aos riscos levantados e analisados. A política  
+estabelece diretrizes que indicam aos gestores os caminhos para tratar com eficácia as  
+incertezas relacionadas às vulnerabilidades da Empresa, mitigando seus riscos. 
+2Objetivo
+Definir as diretrizes que norteiam as ações relativas à segurança física e patrimonial, a fim  
+de proteger a integridade de todas as instalações da Empresa, de seus empregados e  
+colaboradores.
+3Escopo
+A Política de Segurança Física e Patrimonial da Dataprev aplica-se a :
+-Todas as unidades prediais da Empresa, incluindo-se a administração central,  
+unidades regionais, unidades de desenvolvimento de software, unidades de  
+atendimento, centros de processamento e quaisquer outras pertencentes ao  
+patrimônio ou sob a custódia da Dataprev
+
+-Todos  os  ambientes  computacionais  pertencentes  ou  custodiados  pela  
+Dataprev
+
+2/6
+-Todos  os  empregados  e  colaboradores  de  qualquer  natureza  jurídica  da  
+Dataprev.
+4Referências Normativas 
+São referências e normativas desta política:
+-ABNT ISO GUIA 73:2009 – Gestão de Riscos – Vocabulário
+
+-ABNT NBR ISO 31000:2009 – Gestão de riscos – Princípios e Diretrizes
+
+-ABNT NBR ISO 31010:2012 – Gestão de Riscos – Técnicas para Avaliação de  
+Riscos
+
+-ABNT NBR ISO 28000:2009 – Especificação para Sistemas de Gestão de  
+Segurança para a Cadeia Logística
+
+-ABNT NBR ISO 28001:2011- Sistemas de Gestão de Segurança para a Cadeia  
+Logística – Melhores práticas para Implementação de Segurança na Cadeia  
+Logística , Avaliações e Planos – requisitos e orientação
+
+-ABNT NBR 15999-1:2007 – Gestão de Continuidade de Negócios- Parte 1:  
+Código de Prática
+
+-ABNT NBR 15999-2:2008-Gestão de Continuidade de Negócios – Parte 2:  
+Requisitos.
+5Princípios
+-A proteção dos bens patrimoniais e da integridade física de empregados e  
+colaboradores
+
+-A prevenção de eventos em potencial capazes de ameaçar as instalações  
+físicas da Empresa e a segurança dos empregados e colaboradores.
+6Diretrizes Gerais 
+6.1Responsabilidade e Gestão
+As unidades prediais da Dataprev devem possuir um representante local responsável pela  
+disseminação e implementação das diretrizes de segurança física e patrimonial definidas e  
+pelo acompanhamento das ações decorrentes. 
+6.2Estudo de Análise de Riscos
+Todas  as  unidades  prediais  da  Dataprev  devem  possuir  estudo  de  análise  de  riscos,  
+contendo identificação, análise e avaliação dos riscos, subsidiando a definição de prioridade  
+3/6
+e as opções de tratamento.
+6.3Planos de Segurança
+Todas as unidades prediais da Dataprev devem elaborar e formalizar planos de segurança  
+com medidas preventivas e mitigatórias para os riscos identificados na matriz de riscos. 
+6.4Planos de Emergência
+Todas  as  unidades  da  Dataprev  devem  possuir  plano  de  emergência,  que  proponha  
+respostas imediatas aos riscos e ações pós emergências, de acordo com o resultado da  
+matriz de risco.
+6.5Controle de Acesso
+Todas as unidades prediais da Dataprev devem controlar o acesso e a saída de pessoas,  
+veículos e ativos, sendo o processo de controle definido de acordo com o resultado da  
+matriz de risco.
+Todas as unidades da Dataprev deverão possuir  como condição mínima de controle a  
+existência de crachás de identificação.
+6.6Serviços e Tecnologia de Segurança
+A Dataprev  deve,  preferencialmente,  investir  recursos  na  implantação  e  utilização  de  
+sistemas eletrônicos de segurança que atuem de forma integrada, a fim de otimizar e tornar  
+mais eficiente a execução das atividades de segurança. 
+6.7Empreendimento na Infraestrutura Predial 
+Os empreendimentos na infraestrutura predial, tais como projeto, reforma e reformulação  
+das  unidades  prediais  da  Dataprev  devem  possuir  avaliação  de  riscos,  projetos  de  
+seguranças e planos de emergência e/ou contingência.
+6.8Sistema de Vigilância
+O sistema de vigilância nas unidades prediais da Dataprev deve empregar um conjunto de  
+recursos tecnológicos e organizacionais integrados às pessoas, de acordo com o resultado  
+da matriz de riscos, podendo valer-se da utilização da vigilância armada.
+6.9Qualificação e Formação de Pessoas
+A Dataprev deve desenvolver planos de formação e de treinamento, visando especializar os  
+empregados envolvidos com as atividades de segurança física e patrimonial nas melhores  
+4/6
+práticas de segurança do mercado.
+6.10Monitoramento dos Riscos
+A Dataprev  deve  gerir  os  indicadores  e  níveis  de  riscos  de  suas  unidades  prediais  e  
+promover o seu monitoramento.
+6.11Conformidade
+O cumprimento da política e de suas normas e procedimentos agregados deve ser avaliado  
+e monitorado, permanentemente, como forma de identificar, corrigir e/ou prevenir situações  
+inseguras para a Dataprev.
+As atividades, produtos e serviços da segurança física e patrimonial da Dataprev devem  
+estar em conformidade com leis, regulamentos, resoluções, normas, estatutos e contratos  
+jurídicos vigentes, sejam eles internos, municipais, estaduais ou federais.
+7Penalidades
+O não cumprimento das determinações da Política de Segurança Física e Patrimonial da  
+Dataprev,  suas  normas  e  procedimentos  agregados,  sujeita  o  infrator  às  penalidades  
+previstas em lei e nos regulamentos internos da Dataprev.
+8Atualização
+A Política de Segurança Física e Patrimonial da Dataprev deve ser atualizada sempre que  
+necessário ou num intervalo não superior a 01 (um) ano.
+9Disposições Finais
+O detalhamento necessário a implementação desta política consta no Manual de Segurança  
+Física e Patrimonial da Dataprev. 
+Os casos omissos, as situações especiais e demais diretrizes necessárias a implementação  
+desta política de segurança física e patrimonial devem ser analisados e deliberados pelo  
+Departamento de Serviços Gerais. 
+5/6
+GLOSSÁRIO
+Análise de riscos : Processo sistemático para compreender a natureza do risco e deduzir o  
+nível  de  risco.  Fornece  a  base  para  a  avaliação  de  riscos  e  para  decisões  sobre  o  
+tratamento de riscos.
+Avaliação de riscos : Processo global de estimar a magnitude dos riscos, e decidir se um  
+risco é ou não tolerável, bem como propor formas de mitigação dos riscos constatados. 
+Conformidade: Atendimento a um requisito.
+Emergência: Toda a ocorrência anormal que foge ao controle de um processo, sistema ou  
+atividade, da qual possam resultar danos a pessoas, ao ambiente, a equipamentos ou ao  
+patrimônio da empresa ou de terceiros, envolvendo atividades ou instalações industriais.
+Evento: Ocorrência de um conjunto específico de circunstâncias.
+Gestão de riscos: Atividades coordenadas para dirigir e controlar uma organização no que  
+se refere a riscos.
+Identificação dos Riscos:  Consiste na compreensão das origens de cada risco e na busca  
+em responder por que o risco existe na unidade da Dataprev, além de apontar quais são as  
+condições ou fatores de riscos que potencializam a concretização do evento.
+Matriciamento de riscos: É o cruzamento da probabilidade de ocorrência de um risco e do  
+impacto que pode ser produzido. Quanto maior for à probabilidade e o impacto de um risco,  
+maior será o nível do risco da Unidade.
+Monitoramento dos riscos:  É o processo que envolve as seguintes etapas:  definição dos 
+níveis aceitáveis de ocorrências, tanto em quantidade, quanto dos seus respectivos impactos  
+nas Unidades
+ elaboração de padrões de desempenho a serem alcançados pelas práticas de  
+segurança
+ comparação dos indicadores de ocorrências com os padrões ora estabelecidos
+  
+elaboração de planos corretivos e suas consequentes implementações.
+Plano de Segurança:  Documento a ser desenvolvido em capítulos ordenados, que agrupa  
+os Riscos, Análise de Riscos, Matriz de Riscos, bem como o tratamento dos riscos (Planos  
+de Ação) para cada Unidade da Dataprev. 
+Risco: Combinação da probabilidade de ocorrência e da consequência de um determinado  
+evento perigoso. 
+Tratamento de riscos : Processo de seleção e implementação de medidas para modificar  
+um risco.
+6/6
+

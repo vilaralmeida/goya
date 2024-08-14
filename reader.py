@@ -4,8 +4,8 @@ import re
 pdf_file = open('.\db\\rc_cadm_006_2020.pdf', 'rb')  # Open the PDF in binary mode
 pdfreader = PyPDF2.PdfReader(pdf_file)
 
-file = ['.\db\\politicas\\rc_cadm_001_2018_2.pdf',
-        '.\db\\politicas\\rc_cadm_001_2022.pdf',
+file = ['.\db\\politicas\\rc_cadm_001_2018_2.pdf', # nao
+        '.\db\\politicas\\rc_cadm_001_2022.pdf', # sim
         '.\db\\politicas\\rc_cadm_003_2018_0.pdf',
         '.\db\\politicas\\rc_cadm_003_2022.pdf',
         '.\db\\politicas\\rc_cadm_004_2022.pdf',
