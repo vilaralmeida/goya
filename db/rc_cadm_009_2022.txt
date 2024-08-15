@@ -1,376 +1,172 @@
  
  
- 
- 
- 
-  
- 
- 
-2/10  
- 
- 
- 
- 
-GULHERME GASTALDELLO PINHEIRO 
-Conselheiro 
-  
- 
-    
-  
-CHRISTIANE ALMEIDA EDINGTON 
-Conselheira 
- 
- 
-FERNANDO ANDRÉ COELHO MITKIEWICZ 
- 
-Conselheiro  
-ANTÔNIO CARLOS VILLELA SEQUEIRA 
-Conselheiro 
-  
- 
-    
- 
- 
-NATALISIO DE ALMEIDA JUNIOR 
-Conselheiro  
- 
-VENÍCIO DANTAS CAVALCANTI 
-Conselheiro 
-  
-   
- 
- 
- 
- 
-  
- 
- 
-3/10  
-Anexo 
-Política de Continuidade de Negócios da DATAPREV 
-1 Justificativa 
-A DATAPREV está inserida num ambiente de al ta complexidade, competitivo e em constante 
-evolução, o que impõe para a Empresa o desa fio de se adaptar continuamente, de forma 
-acelerada e com elevado grau de sucesso. Porém, a imprevisibilidade sempre existirá, 
-inerente a todas as decisões, quer de caráter administrativo, econômico, operacional, legal, 
-tecnológico ou de natureza política. Uma abordagem estruturada sobre a continuidade de negócios é uma importante ferramenta de governança para responder a esse desafio. 
-Todas as  atividades de negócios de uma organização estão sujeitas a interrupções pelos 
-mais diversos motivos. Ter uma estratégia de mitigação dos possíveis impactos propicia à 
-organização a capacidade de reagir adequadamente às interrupções operacionais enquanto preserva a vida e protege o bem estar e a segurança dos envolvidos, garantindo que os processos críticos para o negócio de uma empresa sejam retornados a sua condição operacional normal em um prazo aceitável, por ocasião de possíveis ocorrências disrupções  
-2 Objetivo 
-A Política de Continuidade de Negócios da DATAPREV tem por objetivo estabelecer as 
-diretrizes relativas à continuidade de negócios e fornecer os princípios orientadores para viabilizar a manutenção do status da resiliência organizacional. 
-É propósito desta política fornecer as diretrizes gerais para que se desenvolvam e se 
-mantenham ações organizacionais de continuidade de negócios para a proteção e a 
-preservação da vida das pessoas, dos interesses e necessidades dos clientes, fornecedores, empregados, acionistas, e todos aqueles que mantém relação institucional com a DATAPREV. 
-3 Abrangência 
-A Política de Gestão de Continuidade da DATAPREV aplica-se a:  
-• Todos os dirigentes, membros de comitês de assessoramento, conselheiros, 
-empregados efetivos, extraquadro, estagiários, jovens aprendizes e 
-colaboradores de qualquer natureza jurídica, inclusive fornecedores contratados pela DATAPREV
- e  
-• Todos os ambientes físicos da DATAPREV, incluindo-se a sede, filiais, e 
-quaisquer outros pertencentes ao patrimônio ou sob a custódia da DATAPREV.  
-   
- 
- 
- 
- 
-  
- 
- 
-4/10  
-4 Compromisso 
-A DATAPREV ratifica o compromisso com a melhoria contínua da sua governança por meio 
-da implementação da Gestão da Continuidade como forma de contribuir para o cumprimento 
-da sua missão e para o atingimento dos objetivos da organização.  
-A DATAPREV está comprometida com as leis, regulamentos, normas e diretrizes aplicáveis 
-à Gestão da continuidade no âmbito da Administração Pública Federal. 
-5 Referências Legais e Normativas 
-São referências legais e normativas desta Política: 
- Decreto 10.222 de 5 de fevereiro de 2020 – Aprova a Estratégia Nacional de 
-Segurança Cibernética
- 
- Instrução Normativa GSI/PR Nº 3, de 28 de maio 2021 
- Instrução Normativa GSI/PR nº 1 – 27/05/2020
- 
- Política de Segurança da Informação e Comunicações da DATAPREV vigente
- 
- Política de Segurança Física e Patrimonial da DATAPREV vigente
- 
- Plano Diretor de Tecnologia da Informação da DATAPREV vigente
- 
- Manual de Segurança da Informação e Comunicações da DATAPREV vigente
- 
- ABNT NBR ISO 22301:2020 - Segurança e resiliência — Sistema de gestão de 
-continuidade de negócios — Requisitos – 01/06/2020
- 
- ABNT NBR ISO 22313:2020 - Segurança da sociedade — Segurança e 
-resiliência — Sistemas de gestão de continuidade de negócios — Orientações 
-para o uso da ABNT NBR ISO 22301 – 01/06/2020
- 
- ABNT NBR ISO/IEC 27031:2015 – Tecnologia da informação – Técnicas de 
-segurança – Diretrizes para a prontidão para continuidade dos negócios da tecnologia da informação e comunicação – 15/01/2015
- 
- ABNT NBR ISO/IEC 27001:2013 – Tecnologia da Informação – Técnicas de 
-Segurança – Sistemas de Gestão de Segurança da Informação – Requisitos
- 
- ABNT NBR ISO/IEC 27002:2013 – Tecnologia da Informação – Técnicas de 
-Segurança – Código de Prática para Controles de Segurança da Informação
- e 
- ABNT NBR ISO/IEC 27005:2019 - Tecnologia da informação — Técnicas de 
-segurança — Gestão de riscos de segurança da informação
- – 24/10/2019. 
-   
- 
- 
- 
- 
-  
- 
- 
-5/10  
-6 Princípios 
- 
- A proteção ao bem-estar e à segurança dos clientes, fornecedores, 
-empregados, acionistas, e todos aqueles que mantém relação institucional com 
-a DATAPREV
- 
- 
- A obediência aos princípios e valores da boa governança para preservação da 
-reputação da empresa e de seus empregados
- 
- 
- A proteção dos ativos da DATAPREV
-  
- A salvaguarda dos interesses, nece ssidades e expectativas de clientes, 
-fornecedores, empregados e acionistas
-  
- A garantia da disponibilidade dos serviços prestados à sociedade
- e  
- A incorporação da cultura de continuidade de negócios nos processos, 
-produtos e serviços da empresa.  
-7 Diretrizes Gerais 
-A Gestão da Continuidade de Negócios – GCN visa propiciar o desenvolvimento de uma 
-resiliência organizacional que seja capaz de responder eficazmente e salvaguardar os interesses, a reputação e a marca da organização e de suas atividades de valor agregado. 
-A gestão da continuidade tem por objetivos: 
- A proteção ao bem-estar e à segurança dos clientes, fornecedores, empregados, 
-acionistas, e todos aqueles que mantém relação institucional com a DATAPREV
- 
- 
- A obediência aos princípios e valores da boa governança para preservação da 
-reputação da empresa e de seus empregados
- 
- O compromisso com os valores da DATAPREV
- 
- A proteção dos ativos da DATAPREV
-  
- A salvaguarda dos interesses, necessidades e expectativas das partes 
-interessadas
-  
- A garantia da disponibilidade dos serviços prestados à sociedade
- e  
- A incorporação da cultura de continuidade de negócios nos processos, 
-produtos e serviços da empresa.  
- 
-  
- 
- 
- 
- 
-  
- 
- 
-6/10  
- 
- 
-São diretrizes da Política de Continuidade de Negócios da DATAPREV. 
-7.1 Alinhamento e Governança 
-As iniciativas e ações relativas à continuidade de negócios devem constar e estar 
-alinhadas com o disposto nos instrumentos de planejamento da Empresa, tais 
-como: Planejamento Estratégico Institucional, Planos Diretores e no Portfólio de Programas e Projetos. Esse alinhamento visa a aderência com a missão da empresa, seus valores, sua estrutura, natureza do negócio e sua complexidade de modo a refletir a cultura e o ambiente institucional. 
-7.2 Estratégia 
-As propostas e linhas de atuação da continuidade devem ser lastreadas pela 
-identificação e análise dos processos de negócio da Cadeia de Valor  considerados 
-críticos para a empresa, priorizando e direcionando suas ações com base na gestão de riscos e na análise de impacto aos negócios da DATAPREV. 
-7.3 Planos de Continuidade de Negócio 
-O plano de continuidade de negócio visa prioritariamente a preservação da 
-integridade física das pessoas e ativos e busca, ainda, atingir os seguintes objetivos:  
- 
-(i) identificar, documentar, e avaliar e tratar os riscos que possam 
-comprometer a continuidade dos negócios
-  
-(ii) estabelecer tratamento para eventos de disrupção
- (iii) estabelecer papéis e responsabilidades para sua manutenção e 
-acionamento
-  
-(iv) desenvolver processos e mecanismos que viabilizem o retorno à 
-normalidade de um processo na ocorrência de um evento de 
-interrupção
-  
-(v) realizar testes para simulaç ão da execução de procedimentos 
-definidos
- e, 
-(vi) reestabelecer, com a maior brevidade possível, a entrega de 
-produtos e serviços em caso de disrupção. 
-7.4 Operação dos planos de continuidade 
-A operação dos planos de continuidade em situações adversas, quando do seu 
-acionamento, tem prevalência sobre os demais produtos e serviços quando em  
- 
- 
- 
- 
-  
- 
- 
-7/10  
-condições normais de operação.  
-7.5 Eficácia e Testes 
- A continuidade das operações, produtos e serviços em situações de 
-crise deve ser garantida por meio de planos documentados e de recursos previamente disponibilizados para esta finalidade
- 
- Para serem considerados eficazes, os planos, ambientes e soluções 
-de continuidade de negócios devem ser testados e comprovados por meio da coleta de evidências
- e 
- Os ambientes e soluções de continuidade de negócios devem estar 
-atualizados em termos de tecnologia, infraestrutura, processos e recursos relativos aos ambientes primários da empresa. 
-7.6 Melhoria Contínua 
-A DATAPREV deve adotar as melhores práticas de mercado e prospectar soluções 
-tecnológicas de ponta, para atender aos requisitos de continuidade de negócios 
-sempre observando a viabilidade e o custo das soluções.  
-7.7 Segurança da Informação 
-As ações de continuidade de negócios devem obrigatoriamente observar e estar 
-alinhadas ao disposto na Política de Segurança da Informação e Comunicações – 
-POSIC.  
-7.8 Auditoria e Conformidade 
-O cumprimento desta Política e de suas normas e procedimentos agregados devem 
-ser auditados periodicamente como forma de identificar, corrigir e/ou prevenir 
-situações que comprometam os requisitos de continuidade dos negócios da DATAPREV.  
-8 Sistema de Gestão de Continuidade de Negócio 
-O Sistema de Gestão Continuidade de Negócio (SGCN) é composto de normativos, 
-processos, áreas e instâncias visando estabelecer, implementar, operar, monitorar, analisar e realizar atividades de melhoria contínua.  
-A Continuidade torna possível o retorno ao funcionamento da organização em um nível 
-aceitável nas disrupções, resguardando os interesses, a reputação, a imagem da organização 
-e suas atividades, assim como, resultando em significativo valor agregado. 
-A implantação de um Sistema de Gestão da Continuidade de Negócios tem por objetivos: 
- Proteger a segurança física de pessoas, clientes e funcionários
- 
- Atender às leis, regulamentações e orientações dos órgãos de controle
-  
- 
- 
- 
- 
-  
- 
- 
-8/10  
- Conquistar maior confiança do mercado que atua e gerar um diferencial com-
-petitivo
- 
- Permitir a disponibilidade dos processos de negócio da organização
- 
- Construir uma resiliência organizacional diante dos possíveis Incidentes de 
-Continuidade de Negócio
- 
- Buscar uma visão holística de como funciona a organização. 
- 
-8.1 Premissas do Sistema de Gestão de Continuidade de Negócio 
-São premissas para o Sistema: 
-• Aplicação da metodologia de Gestão da continuidade nas atividades 
-dos processos de negócio da Cadeia de Valor da DATAPREV
-  
-• Comprometimento da Alta Administração com os procedimentos 
-necessários para uma Gestão da continuidade em toda a Empresa
-  
-• Utilização da Gestão da Continuidade como instrumento para 
-obtenção de informações úteis à tomada de decisão para os objetivos 
-institucionais da DATAPREV, e para a manutenção dos riscos dentro de padrões definidos pelas instâncias supervisoras
-  
-• Adoção de uma linguagem padrão de Gestão da Continuidade para a 
-DATAPREV, possibilitando um melhor entendimento entre as partes envolvidas
-  
-• Realização de treinamentos como forma de gerar o comprometimento 
-dos colaboradores da DATAPREV com o tema
-  
-• Adoção de metodologias e padrões formalizados de Gestão para 
-Continuidade, reconhecidos pelo mercado, proporcionando um 
-arcabouço de gestão amplamente utilizado e testado, além de facilitar a comunicação com órgãos reguladores e fiscalizadores
-  
-• Papéis e responsabilidades de cada um dos colaboradores envolvidos 
-na Gestão da continuidade claramente definidos, observando, em 
-especial, o princípio da segregação de funções
- e 
- Infraestrutura adequada de tecnologia, processos e pessoas para a 
-implementação da Gestão da continuidade. 
-9 Atualização 
-Esta Política deve ser atualizada sempre que necessário considerando os resultados das 
-atividades no âmbito do Processo de Gestão de Continuidade de Negócios. 
-10 Disposições Gerais  
- 
- 
- 
- 
-  
- 
- 
-9/10  
-O detalhamento necessário à implementação desta Política deverá estar contido nos 
-documentos do Processo de Gestão de Continuidade de Negócios da DATAPREV. 
-Os casos omissos, as situações especiais e demais diretrizes necessárias à implantação 
-desta Política de Continuidade de Negócios devem ser analisadas e deliberadas pelo órgão responsável pela continuidade de negócios da DATAPREV.  
-11 Glossário 
-Análise de Impacto nos 
-Negócios – AIN ( BIA – 
-Business Impact Analisys ) Visa estimar os impactos resultantes da interrupção de 
-serviços e de cenários de desastres que possam afetar o desempenho dos órgãos ou entidades da Administração Pública Federal, bem como as técnicas para quantificar e qualificar esses impactos. Define também a criticidade dos processos de negócio, suas prioridades de recuperação, 
-interdependências e os requisitos de segurança da informação 
-e comunicações para que os objetivos de recuperação sejam atendidos nos prazos estabelecidos. 
-Ativo Meios de armazenamento, transmissão e processamento, 
-sistemas de informação, bem como os locais onde se encontram esses meios e as pessoas que a eles têm acesso. 
-Ativos de informação Para efeito desta Política, denominado como “Ativo”. 
-Ambiente Primário Para fins dessa política, ambientes primários são considerados 
-os ambientes produtivos orig inais, dos quais derivam-se os 
-ambientes de continuidade de negócios como forma de aumentar sua resiliência frente a crises. 
- 
-Confidencialidade Propriedade de que a informação não seja revelada à pessoa 
-física, sistema, órgão ou entidade não autorizados e credenciados. 
-Continuidade de Negócios Capacidade que uma organização tem de continuar a entrega 
-de produtos ou serviços em níveis aceitáveis pré-definidos após um incidente de interrupção. 
-Disponibilidade Propriedade de que a informação esteja acessível e utilizável 
-sob demanda por uma pessoa física ou determinado sistema, 
-órgão ou entidade. 
-Disrupção Interrupção do curso normal de um processo de negócio, ser-
-viço ou entrega de produto 
-Gestão de Continuidade Processo abrangente de gestão que identifica ameaças 
-potenciais para uma organização e os possíveis impactos nas operações de negócio caso estas ameaças se concretizem. Este processo fornece uma estrutura para que se desenvolva 
-uma resiliência organizacional que seja capaz de responder  
- 
- 
- 
- 
-  
- 
- 
-10/10  
-eficazmente e salvaguardar os interesses das partes 
-interessadas, a reputação e a marca da organização e suas atividades de valor agregado. 
-Gestão de Riscos  Atividades coordenadas para direcionar e controlar os riscos da 
-organização. 
-Incidente Situação que pode representar ou levar à interrupção de 
-negócios, perdas, emergências ou crises. 
-Integridade  Propriedade de que a informação não foi modificada, inclusive 
-quanto à origem e ao destino, ou destruída. 
-Processo Um processo é um encadeamento sequencial de atividades 
-que são realizadas progressivamente para a transformação de 
-entradas (insumos) em saídas (produtos ou serviços), 
-agregando valor e resultando em um produto ou serviço desejável pelo cliente.  
-Processos de Negócio  É a sequência das atividades prevendo a produção de um 
-resultado que atenda ao cliente do processo e só existe se gerar algum benefício para a empresa. Basicamente só existe processo de negócio quando ele gera valor, direta ou 
-indiretamente, ao cliente sejam eles formalizados ou não.  
-Produtos e Serviços Resultados produzidos e entregues a seus clientes e partes 
-interessadas em conformidade com regulamentações e benefícios comunitários além de ser um meio de fornecer valor a clientes, facilitando a obtenção de resultados que eles desejam. 
-Resiliência Capacidade de uma organização de resistir após uma 
-disrupção e voltar rapidamente ao estado normal. 
- 
+ Aqui está a reescrita:
+
+---
+
+**2/10**
+
+**GUILHERME GASTALDELLO PINHEIRO**  
+Conselheiro
+
+**CHRISTIANE ALMEIDA EDINGTON**  
+Conselheira
+
+**FERNANDO ANDRÉ COELHO MITKIEWICZ**  
+Conselheiro
+
+**ANTÔNIO CARLOS VILLELA SEQUEIRA**  
+Conselheiro
+
+**NATALÍSIO DE ALMEIDA JÚNIOR**  
+Conselheiro
+
+**VENÍCIO DANTAS CAVALCANTI**  
+Conselheiro
+
+---
+
+**3/10**
+
+**Anexo**  
+**Política de Continuidade de Negócios da DATAPREV**
+
+**1. Justificativa**  
+A DATAPREV opera em um ambiente de alta complexidade, competitivo e em constante evolução, o que exige da Empresa a capacidade de adaptação contínua e eficiente. No entanto, a imprevisibilidade é uma constante em todas as decisões administrativas, econômicas, operacionais, legais, tecnológicas e políticas. Ter uma abordagem estruturada para a continuidade de negócios é essencial para enfrentar esse desafio. Interrupções podem ocorrer por diversos motivos e ter uma estratégia para mitigar seus impactos permite à organização reagir adequadamente, proteger a segurança das pessoas e garantir que processos críticos sejam retomados em um prazo aceitável.
+
+**2. Objetivo**  
+A Política de Continuidade de Negócios da DATAPREV visa estabelecer diretrizes e princípios para assegurar a continuidade das operações e a resiliência organizacional. O objetivo é fornecer diretrizes gerais para o desenvolvimento e manutenção de ações que garantam a proteção da vida, dos interesses e das necessidades de clientes, fornecedores, empregados, acionistas e todos os envolvidos com a DATAPREV.
+
+**3. Abrangência**  
+Esta Política aplica-se a:  
+- Todos os dirigentes, membros de comitês de assessoramento, conselheiros, empregados efetivos, extraquadro, estagiários, jovens aprendizes e colaboradores de qualquer natureza jurídica, incluindo fornecedores contratados pela DATAPREV.
+- Todos os ambientes físicos da DATAPREV, incluindo a sede, filiais e qualquer outro local pertencente ao patrimônio ou sob custódia da DATAPREV.
+
+**4. Compromisso**  
+A DATAPREV se compromete com a melhoria contínua da governança por meio da Gestão da Continuidade, contribuindo para o cumprimento da missão e dos objetivos da organização. A empresa está comprometida com a conformidade às leis, regulamentos, normas e diretrizes aplicáveis à Gestão da Continuidade na Administração Pública Federal.
+
+**5. Referências Legais e Normativas**  
+Referências para esta Política incluem:  
+- Decreto 10.222, de 5 de fevereiro de 2020 – Aprova a Estratégia Nacional de Segurança Cibernética  
+- Instrução Normativa GSI/PR Nº 3, de 28 de maio de 2021  
+- Instrução Normativa GSI/PR nº 1, de 27 de maio de 2020  
+- Política de Segurança da Informação e Comunicações da DATAPREV vigente  
+- Política de Segurança Física e Patrimonial da DATAPREV vigente  
+- Plano Diretor de Tecnologia da Informação da DATAPREV vigente  
+- Manual de Segurança da Informação e Comunicações da DATAPREV vigente  
+- ABNT NBR ISO 22301:2020 – Segurança e Resiliência – Sistema de Gestão de Continuidade de Negócios – Requisitos  
+- ABNT NBR ISO 22313:2020 – Segurança da Sociedade – Sistemas de Gestão de Continuidade de Negócios – Orientações para o Uso da ABNT NBR ISO 22301  
+- ABNT NBR ISO/IEC 27031:2015 – Tecnologia da Informação – Diretrizes para a Prontidão para Continuidade dos Negócios da Tecnologia da Informação e Comunicação  
+- ABNT NBR ISO/IEC 27001:2013 – Sistemas de Gestão de Segurança da Informação – Requisitos  
+- ABNT NBR ISO/IEC 27002:2013 – Código de Prática para Controles de Segurança da Informação  
+- ABNT NBR ISO/IEC 27005:2019 – Gestão de Riscos de Segurança da Informação
+
+**6. Princípios**  
+- Proteção ao bem-estar e segurança dos clientes, fornecedores, empregados e todos os que mantêm relação institucional com a DATAPREV  
+- Adesão aos princípios e valores da boa governança para preservar a reputação da empresa e de seus empregados  
+- Proteção dos ativos da DATAPREV  
+- Salvaguarda dos interesses e necessidades de clientes, fornecedores, empregados e acionistas  
+- Garantia da disponibilidade dos serviços prestados à sociedade  
+- Incorporação da cultura de continuidade de negócios nos processos, produtos e serviços da empresa  
+
+**7. Diretrizes Gerais**  
+A Gestão da Continuidade de Negócios (GCN) busca desenvolver uma resiliência organizacional capaz de responder eficazmente e proteger os interesses, a reputação e a marca da organização. A gestão da continuidade tem os seguintes objetivos:  
+- Proteção ao bem-estar e segurança dos clientes, fornecedores, empregados e demais envolvidos  
+- Adesão aos princípios da boa governança  
+- Compromisso com os valores da DATAPREV  
+- Proteção dos ativos da DATAPREV  
+- Salvaguarda dos interesses e expectativas das partes interessadas  
+- Garantia da disponibilidade dos serviços à sociedade  
+- Incorporação da cultura de continuidade de negócios nos processos, produtos e serviços da empresa  
+
+**7.1 Alinhamento e Governança**  
+As iniciativas e ações de continuidade devem estar alinhadas com os instrumentos de planejamento da Empresa, como o Planejamento Estratégico Institucional, Planos Diretores e Portfólio de Programas e Projetos, refletindo a missão da empresa e sua complexidade.
+
+**7.2 Estratégia**  
+A continuidade deve ser baseada na identificação e análise dos processos críticos da Cadeia de Valor, priorizando ações com base na gestão de riscos e na análise de impacto.
+
+**7.3 Planos de Continuidade de Negócio**  
+O plano visa a preservação da integridade física das pessoas e ativos e inclui:  
+- Identificação e tratamento dos riscos  
+- Estabelecimento de tratamento para eventos de disrupção  
+- Definição de papéis e responsabilidades  
+- Desenvolvimento de processos para retorno à normalidade  
+- Realização de testes para simulação de procedimentos  
+- Reestabelecimento rápido da entrega de produtos e serviços  
+
+**7.4 Operação dos Planos de Continuidade**  
+Os planos de continuidade têm prioridade em situações adversas sobre os demais produtos e serviços durante operações normais.
+
+**7.5 Eficácia e Testes**  
+- Planos, ambientes e soluções devem ser testados e atualizados  
+- Recursos devem ser previamente disponibilizados e evidências coletadas
+
+**7.6 Melhoria Contínua**  
+A DATAPREV deve adotar melhores práticas e soluções tecnológicas adequadas para a continuidade dos negócios.
+
+**7.7 Segurança da Informação**  
+As ações de continuidade devem estar alinhadas com a Política de Segurança da Informação e Comunicações.
+
+**7.8 Auditoria e Conformidade**  
+O cumprimento da Política deve ser auditado periodicamente para identificar e corrigir possíveis não conformidades.
+
+**8. Sistema de Gestão de Continuidade de Negócio**  
+O Sistema de Gestão de Continuidade de Negócio (SGCN) abrange normativos, processos e áreas responsáveis por estabelecer, implementar e monitorar atividades de melhoria contínua.
+
+**8.1 Premissas do Sistema de Gestão de Continuidade de Negócio**  
+- Aplicação da metodologia de Gestão da Continuidade  
+- Comprometimento da Alta Administração  
+- Uso da Gestão da Continuidade como ferramenta de tomada de decisão  
+- Adoção de uma linguagem padrão  
+- Treinamentos para colaboradores  
+- Uso de metodologias e padrões reconhecidos  
+- Definição clara de papéis e responsabilidades  
+- Infraestrutura adequada
+
+**9. Atualização**  
+Esta Política será atualizada conforme necessário, com base nos resultados do Processo de Gestão de Continuidade de Negócios.
+
+**10. Disposições Gerais**  
+Detalhamentos necessários para implementação estarão nos documentos do Processo de Gestão de Continuidade. Casos omissos e diretrizes adicionais serão analisados pelo órgão responsável pela continuidade de negócios da DATAPREV.
+
+**11. Glossário**  
+- **Análise de Impacto nos Negócios (AIN)**: Avaliação dos impactos da interrupção de serviços e cenários de desastres, definindo criticidade dos processos e requisitos de recuperação.  
+- **Ativo**: Meios de armazenamento, transmissão e processamento, incluindo sistemas de informação e locais.  
+- **Ambiente Primário**: Ambientes produtivos originais, dos quais derivam os ambientes de continuidade para aumentar a resiliência.
+
+Confidencialidade
+Característica de que a informação não seja divulgada a pessoas físicas, sistemas, órgãos ou entidades não autorizados e credenciados.
+
+Continuidade de Negócios
+Habilidade de uma organização em manter a entrega de produtos ou serviços em níveis aceitáveis previamente definidos, mesmo após um incidente de interrupção.
+
+Disponibilidade
+Característica de que a informação esteja acessível e utilizável sob demanda por uma pessoa física ou determinado sistema, órgão ou entidade.
+
+Disrupção
+Interrupção do curso normal de um processo de negócio, serviço ou entrega de produto.
+
+Gestão de Continuidade
+Processo abrangente que identifica ameaças potenciais e seus impactos nas operações de negócio, fornecendo uma estrutura para desenvolver uma resiliência organizacional capaz de responder eficazmente e proteger os interesses das partes interessadas, a reputação e a marca da organização, bem como suas atividades de valor agregado.
+
+Gestão de Riscos
+Atividades coordenadas para identificar, direcionar e controlar os riscos da organização.
+
+Incidente
+Situação que pode causar ou levar a interrupções de negócios, perdas, emergências ou crises.
+
+Integridade
+Característica de que a informação não tenha sido alterada, incluindo sua origem e destino, ou destruída.
+
+Processo
+Sequência de atividades realizadas progressivamente para transformar entradas (insumos) em saídas (produtos ou serviços), agregando valor e resultando em um produto ou serviço desejável para o cliente.
+
+Processos de Negócio
+Sequência de atividades que visa produzir um resultado que atenda ao cliente do processo e gera benefícios para a empresa. Um processo de negócio existe basicamente quando gera valor, direta ou indiretamente, para o cliente, seja formalizado ou não.
+
+Produtos e Serviços
+Resultados entregues a clientes e partes interessadas em conformidade com regulamentações e benefícios comunitários, proporcionando valor ao cliente e facilitando a obtenção dos resultados desejados.
+
+Resiliência
+Capacidade de uma organização de recuperar-se rapidamente e retornar ao estado normal após uma disrupção.
  

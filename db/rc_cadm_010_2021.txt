@@ -1,604 +1,279 @@
  
  
- 
- 
- 
- 
- 
- 
- 
- 2/13 
- 
- 
- 
-LUIS FELIPE SALIN MONTEIRO  
-Conselheiro  
- 
- 
- 
- 
- 
- CHRISTIANE ALMEIDA EDINGTON  
-Conselheiro  
- 
-LEONARDO JOSÉ ROLIM GUIMARÃES  
-Conselheiro  ANTÔNIO CARLOS VILLELA SEQUEIRA  
-Conselheiro  
- 
- 
- 
- 
- 
- 
- 
-NATALISIO DE ALMEIDA JUNIOR  
-Conselheiro  LUIZ DE BARROS BELLOTTI  
-Conselheiro  
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 3/13 
- 
-Anexo 
- 
-Política de Gestão de Riscos da DATAPREV  
-1 Justificativa  
-A Dataprev está inserida num ambiente de alta complexidade, competitivo e em 
-constante mutação, o que impõe para a Empresa o desafio de se  adaptar 
-continuamente, de forma acelerada e com elevado grau de sucesso. Porém, a 
-imprevisibilidade sempre existirá, inerente a todas as decisões, quer de caráter 
-administrativo, econômico, operacional, legal, tecnológico ou de natureza política. 
-Uma abordagem estruturada de Gestão de Riscos é uma importante ferramenta de 
-governança para responder a esse desafio.  
-Riscos, quando não gerenciados adequadamente, ameaçam o atingimento dos 
-objetivos estabelecidos, o cumprimento dos prazos, a continuidade dos serviços, o 
-uso adequado dos recursos públicos e a qualidade dos serviços prestados aos 
-cidadãos.  
-O processo de Gestão de Riscos é fundamental para o cumprimento da missão da 
-Dataprev, ao entregar serviços de qualidade e aumentar a confiança do cidadão na 
-capacidade da Dataprev de entregar os serviços prometidos, no sistema de 
-governança da Empresa, na utilização adequada dos recursos públicos, na 
-execução adequada da estratégia e no alcance da visão.  
-É estratégico para a Dataprev executar um processo estruturado de Gestão de 
-Riscos, para mitigar riscos cujos impactos podem afetar negativamente o ambiente 
-atual da Dataprev.  
-O processo de Gestão de Riscos fortalece a imagem da empresa e encoraja a 
-gestão proativa na cultura da organização.  
-2 Objetivos  
-A Gestão de Riscos tem por objetivos:  
- Sistematizar os processos e as informações relacionadas a riscos, permitindo 
-que os responsáveis pelas tomadas de decisão, em todos os níveis da Dataprev, 
-tenham informações suficientes para que se reduza a probabilidade e impactos 
-de perdas
-  
- Permitir que os gestores possam monitorar os aspectos relacionados aos riscos 
-dos processos, atividades e projetos sob sua responsabilidade
-  
- Integrar as informações relacionadas a riscos ao processo do Planejamento 
-Estratégico da Dataprev e outros processos de planejamento
-  
- Promover o constante aprimoramento dos processos de tomada de decisão da 
-Empresa
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 4/13 
- 
- Facilitar a identificação de oportunidades e ameaças
-  
- Aumentar a probabilidade de alcance dos objetivos da Dataprev, reduzindo os 
-riscos a níveis aceitáveis
- e  
- Aprimorar os controles internos existentes na Empresa e estabelecer novos 
-controles, quando necessário.  
-3 Abrangência  
-A Política de Gestão de Riscos da Dataprev aplica-se a:  
- Todos os empregados, extraquadro, estagiários, jovens aprendizes e 
-colaboradores de qualquer natureza jurídica, inclusive fornecedores contratados 
-pela Dataprev
- e  
- Todos os ambientes físicos da Dataprev, incluindo-se a sede, filiais, unidades de 
-desenvolvimento e quaisquer outros pertencentes ao patrimônio ou sob a 
-custódia da Dataprev.  
-4 Compromisso  
-A Dataprev ratifica o compromisso com a melhoria contínua da sua governança por 
-meio da implementação da Gestão de Riscos como forma de contribuir para o 
-cumprimento da sua missão e para o atingimento dos objetivos da organização.  
-A Dataprev está comprometida com as leis, regulamentos, normas e diretrizes 
-aplicáveis à Gestão de Riscos no âmbito da Administração Pública Federal.  
-5 Referências Legais e Normativas  
-Constituem preceitos legais desta Política:  
- Lei 13.303 de 30 de junho de 2016 – Dispõe sobre o estatuto jurídico da 
-empresa pública, da sociedade de economia mista e de suas subsidiárias, no 
-âmbito da União, dos Estados, do Distrito Federal e dos Municípios
-  
- Decreto 8.945 de 27 de dezembro de 2016 – Regulamenta, no âmbito da União, 
-a Lei  nº 13.303, de 30 de junho de 2016, que dispõe sobre o estatuto jurídico 
-da empresa pública, da sociedade de economia mista e de suas subsidiárias, 
-no âmbito da União, dos Estados, do Distrito Federal e dos Municípios
-  
- Resolução CGPAR nº 18 de 10 de maio de 2016 – A Comissão Interministerial 
-de Governança Corporativa e de Administração de Participações Societárias 
-da União (CGPAR) orienta as empresas estatais na implementação de Políticas 
-de Conformidade e Gerenciamento de Riscos
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 5/13 
- 
- Instrução Normativa Conjunta MPOG/CGU nº 01, de 10 de maio de 2016, que 
-dispõe sobre controles internos, gestão de riscos e governança no âmbito do 
-Poder Executivo Federal
-  
- Decreto  9.203 de 23 de novembro de 2017, que dispõe sobre a política de 
-Governança da Administração Pública Federal direta, autárquica e fundacional
- 
-e 
- Portaria CGU 1.089 de 25 de abril de 2018, que estabelece orientações para 
-que os órgãos e as entidades da Administração Pública Federal tomem 
-medidas inibidoras de fraudes e corrupção.  
-Constituem referências normativas desta Política:  
- Norma ABNT NBR ISO 31000:2018– Gestão de Riscos – Princípios e diretrizes
-  
- Norma ABNT ISO GUIA 73:2009 – Gestão de Riscos – Vocabulário
-  
- Norma ABNT NBR ISO 31010:2012 – Gestão de Riscos – Técnicas para o 
-processo de avaliação de riscos
-  
- Norma ABNT NBR ISO 31004:2015 – Gestão de Riscos – Guia para 
-implementação da ABNT ISO 31000
-  
- COSO(Committee of Sponsoring Organizations of the Treadway Commission) 
-– Gerenciamento de Riscos Corporativos versão 2017
-  
- COSO(Committee of Sponsoring Organizations of the Treadway Commission) 
-– Estrutura Integrada de Controles Internos, versão 2013
- e  
- Modelo de Três Linhas do Instituto dos Auditores Internos do Brasil, versão 
-2020. 
-6 Princípios  
-São princípios fundamentais desta Política:  
- Aplicação da metodologia de Gestão de Riscos em todas as práticas e processos 
-organizacionais da Dataprev, de forma a garantir a identificação, a análise e o 
-tratamento de eventos de riscos em todas as áreas da Empresa
-  
- Comprometimento da Alta Administração com a aplicação da Gestão de Riscos 
-em toda a Empresa
-  
- Utilização da Gestão de Riscos como instrumento para obtenção de informações 
-úteis à tomada de decisão para os objetivos institucionais da Dataprev, e para a 
-manutenção dos riscos dentro de padrões definidos pelas instâncias 
-supervisoras
-  
- Adoção de uma linguagem padrão de Gestão de Riscos para a Dataprev, 
-possibilitando um melhor entendimento entre as partes envolvidas
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 6/13 
- 
- Realização de treinamentos como forma de gerar o comprometimento de todos 
-os colaboradores da Dataprev com a Gestão de Riscos
-  
- Adoção de metodologias e padrões formalizados de Gestão de Riscos, 
-reconhecidos pelo mercado, proporcionando um arcabouço de gestão 
-amplamente utilizado e testado, além de facilitar a comunicação com órgãos 
-reguladores e fiscalizadores
-  
- Atuação independente das instâncias dedicadas à Gestão de Riscos, 
-assegurada pelo Conselho de Administração e pela Diretoria Executiva
-  
- Papéis e responsabilidades de cada um dos colaboradores envolvidos na 
-Gestão de Riscos claramente definidos, observando, em especial, o princípio da 
-segregação de funções
-  
- Infraestrutura adequada de tecnologia, processos e pessoas para a 
-implementação da Gestão de Riscos
- e  
- Adoção do Modelo de Três Linhas do Instituto dos Auditores Internos do Brasil 
-como base para a estrutura da Gestão de Riscos.  
-7 Diretrizes Gerais  
-São determinações a serem seguidas para a implementação da Política de Gestão 
-de Riscos da Dataprev:  
- Implementar a Gestão de Riscos de modo a contribuir para a realização 
-demonstrável dos objetivos da Empresa e para a melhoria do desempenho em 
-aspectos como qualidade dos produtos, gestão de projetos, eficiência nas 
-operações, conformidade legal e regulatória, governança e aceitação pública
-  
- Tratar prioritariamente e tempestivamente os riscos dos processos, projetos e 
-decisões de maior criticidade e relevância estratégica
-  
- Formalizar a Gestão de Riscos por meio de normas e manuais
-  
- Definir apetite e tolerância a riscos da Empresa, que devem ser atualizados 
-periodicamente, de modo a permitir a utilização destes elementos nas tomadas 
-de decisão
-  
- Estabelecer um ambiente de Gestão de Riscos que propicie uma visão dos 
-impactos inter-relacionados dos riscos e, também, respostas integradas aos 
-diversos riscos mapeados pela organização
-  
- Manter registros das atividades de Gestão de Riscos, de modo a subsidiar a 
-responsabilização, a prestação de contas e a melhoria contínua dos processos
-  
- Disseminar a presente Política e o suporte metodológico para a Gestão de 
-Riscos a todas as instâncias da Empresa nos diversos níveis organizacionais, 
-para criar e manter a cultura corporativa em Gestão de Riscos, como parte 
-integrante de um programa de educação continuada
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 7/13 
- 
- Implementar controles internos de forma compatível com a relevância dos riscos
-   
- Revisar e avaliar os riscos e os controles internos periodicamente, bem como 
-sempre que houver mudanças significativas internas ou externas à Dataprev
-  
- Elaborar periodicamente e encaminhar para apreciação da Alta Direção 
-relatórios com avaliação dos riscos e controles internos relevantes
-  
- Automatizar os controles internos sempre que justificado pelo volume e/ou pela 
-complexidade da operação dos controles
-  
- Alinhar as ações das unidades organizacionais da Dataprev responsáveis pela 
-Conformidade, pela Integridade e pela Auditoria Interna com as ações da área 
-responsável pela Gestão de Riscos
- e  
- Classificar os riscos nas seguintes categorias:  
-a) Riscos Estratégicos: riscos associados com as decisões estratégicas da 
-organização para atingir os seus objetivos de negócios, e/ou decorrentes da 
-falta de capacidade ou habilidade da Empresa para proteger-se ou adaptar-
-se a mudanças no ambiente externo
-  
-b) Riscos Operacionais: eventos que podem comprometer as atividades da 
-Dataprev, normalmente associados a falhas, deficiência ou inadequação de 
-processos internos, pessoas, infraestrutura e sistemas
-  
-c) Riscos Financeiros: eventos que podem comprometer a capacidade da 
-Dataprev de contar com os recursos orçamentários e financeiros 
-necessários à realização de suas atividades, ou incertezas associadas aos 
-retornos financeiros esperados de um investimento
-  
-d) Riscos Regulatórios: eventos derivados de alterações legislativas ou 
-normativas, inadequação a requisitos regulatórios ou multas aplicadas por 
-descumprimento de dispositivos legais e perdas financeiras oriundas de 
-decisões desfavoráveis em processos judiciais, que podem comprometer as 
-atividades da Dataprev
- e  
-e) Riscos à Integridade: eventos relacionados a fraudes, a desvio de conduta 
-ética, a prática de corrupção, a conflitos de interesses e outros que de 
-alguma forma possam comprometer valores e padrões da Dataprev.  
-8 Responsabilidades  
-As responsabilidades da Gestão de Riscos devem ser distribuídas por instâncias 
-nos diversos níveis organizacionais, conforme o disposto a seguir:  
-Conselho de Administração  
- Prestar suporte institucional à implementação e acompanhamento do processo 
-de Gestão de Riscos, delegando a supervisão à Diretoria Executiva
-  
- Aprovar a Política de Gestão de Riscos
- e  
- Aprovar o nível de Apetite a Risco proposto pela Diretoria Executiva.   
- 
- 
- 
- 
- 
- 
- 
- 
- 8/13 
- 
-Conselho Fiscal  
- Fiscalizar os atos dos administradores atinentes à Gestão de Riscos e verificar 
-o cumprimento dos seus deveres legais e estatutários.  
-Comitê de Auditoria Estatutário  
- Monitorar a qualidade e a integridade do processo de Gestão de Riscos
- e  
- Avaliar e monitorar exposições de risco da Dataprev.  
-Diretoria Executiva  
- Propor o Apetite a Risco da Dataprev, principalmente, mas não limitado, ao 
-momento de definição de seus objetivos estratégicos
-  
- Propor o limite de tolerância a risco para cada nível de prioridade da Matriz de 
-Riscos, estabelecendo a estratégia e governança em resposta aos riscos.  
- Deliberar sobre medidas necessárias para prover o alinhamento entre o Apetite 
-a Risco e a execução das estratégias da Dataprev
-  
- Aprovar a priorização dos processos para a Gestão de Riscos
-  
- Incorporar nos processos de governança e gestão, de forma explícita, o 
-monitoramento regular de Indicadores Chave de Risco
-  
- Notificar regularmente o Conselho de Administração sobre as exposições da 
-Dataprev a riscos, destacando os riscos mais críticos e os planos de respostas 
-a esses riscos
-  
- Aprovar metas para o nível de maturidade almejado da Dataprev para a Gestão 
-de Riscos e monitoramento do progresso das ações para atingir ou manter-se 
-no nível definido
-  
- Prover programa de capacitação e aperfeiçoamento voltado para Gestão de 
-Riscos
- 
- Promover a integração da Gestão de Riscos com os ciclos de planejamento da 
-Dataprev
- e  
- Garantir a implantação do processo de Gestão de Riscos.  
-Superintendência Colegiada  
- Orientar a integração da Gestão de Riscos nos processos organizacionais
-  
- Validar e revisar periodicamente a matriz de riscos da Dataprev
-  
- Validar a priorização dos processos para a Gestão de Riscos
-  
- Validar metas para o nível de maturidade almejado da Dataprev para a Gestão 
-de Riscos e monitoramento do progresso das ações para atingir ou manter-se 
-no nível definido
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 9/13 
- 
- Avaliar e recomendar revisões na estrutura de controles internos e nos planos 
-de resposta aos riscos
- e  
- Promover o debate de riscos ao tratar de assuntos estratégicos e operacionais.  
-Auditoria Interna  
- Avaliar a efetividade do processo de Gestão de Riscos, verificando os 
-procedimentos estabelecidos em consonância com a Política de Gestão de 
-Riscos e a eficácia dos controles internos da gestão implementados em 
-resposta aos riscos avaliados, oferecendo recomendações e 
-aconselhamentos.  
-Órgão responsável de Gestão de Riscos  
- Propor, acompanhar, manter atualizadas e difundir as normas e metodologias 
-de Gestão de Riscos e de Controles Internos para a Empresa
-  
- Propor Política de Gestão de Riscos, que deverá ser periodicamente revisada 
-e aprovada pelo Conselho de Administração, e comunicá-la a todo o corpo 
-funcional da Empresa
-  
- Avaliar e propor melhorias de processos sob a ótica de Gestão de Riscos e 
-Controles Internos
-  
- Propor, manter e disseminar o uso de ferramentas para a Gestão de Riscos e 
-Controles Internos
-  
- Apoiar, orientar e acompanhar os gestores na execução das atividades de 
-Gestão de Riscos e Controles Internos
-  
- Disseminar, inclusive por meio de capacitação e treinamentos, conhecimentos 
-em Gestão de Riscos e Controles Internos
-  
- Zelar pela efetividade e aplicação da Norma de Gestão de Riscos e Controles 
-Internos
-  
- Coordenar os processos de identificação, classificação e avaliação dos riscos 
-a que está sujeita a Empresa
-  
- Coordenar a elaboração e monitorar os planos de ação para mitigação dos 
-riscos identificados, verificando continuamente a adequação e a eficácia da 
-Gestão de Riscos
-  
- Elaborar relatórios periódicos de suas atividades, submetendo-os à Diretoria 
-Executiva, ao Conselho de Administração e ao Comitê de Auditoria Estatutário
-  
- Estabelecer uma linguagem comum de Gestão de Riscos, incluindo medidas 
-comuns de probabilidade, impacto e categorias de riscos, respeitando, quando 
-necessário, as especificidades de áreas e processos
-  
- Propor a priorização dos processos para a Gestão de Riscos
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 10/13 
- 
- Propor metas para o nível de maturidade almejado da Dataprev para a Gestão 
-de Riscos e monitoramento do progresso das ações para atingir ou manter-se 
-no nível definido
- e  
- Definir, orientar e monitorar funções e responsabilidades pela Gestão de Riscos 
-na empresa.  
-Gestores de processos, projetos e programas  
- Assegurar que os riscos sejam gerenciados de acordo com a Política de Gestão 
-de Riscos da Dataprev
-  
- Implementar as ações de tratamento e monitorar os riscos ao longo do tempo, 
-de modo a garantir que as respostas adotadas resultem na manutenção do 
-risco em níveis adequados
- e  
- Promover a divulgação dos riscos vinculados aos processos, projetos e 
-programas sob sua gestão.  
-Interlocutores de riscos  
- Atuar como a interface entre as áreas da Empresa e a área de Gestão de 
-Riscos
- e  
- Realizar a Gestão de Riscos, conforme orientação do gestor responsável.  
-9 Atualização  
-A Política de Gestão de Riscos da Dataprev deve ser atualizada a  cada dois anos 
-ou quando mudanças significativas ocorrerem.  
-10 Disposições Finais  
-Os casos omissos, as situações especiais e demais diretrizes necessárias à 
-implantação da presente Política devem ser analisados e deliberados pela Diretoria 
-Executiva.  
-Esta Política e demais procedimentos da Gestão de Riscos devem estar alinhados 
-às diretrizes pertinentes do Governo Federal e à legislação em vigor.  
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 11/13 
- 
- 
- 
-11 Glossário  
- 
-Apetite a risco  Grau de exposição aos riscos que a organização está 
-disposta a aceitar para atingir seus objetivos.  
-Controles Internos  Conjunto de regras, procedimentos, diretrizes, 
-protocolos, rotinas de sistemas informatizados, 
-conferências e trâmites de documentos e 
-informações, entre outros, operacionalizados de forma 
-integrada pela direção e pelo corpo de servidores da  
-organização, destinados a enfrentar os riscos e 
-fornecer segurança razoável na consecução dos 
-objetivos da organização.  
-Estrutura da Gestão de Riscos  Conjunto de componentes que fornecem os 
-fundamentos e os arranjos organizacionais para a 
-concepção, implementação, monitoramento, análise 
-crítica e melhoria contínua da gestão de riscos através 
-de toda a organização.  
-Evento Um evento é um incidente ou uma ocorrência que afeta 
-a implementação da estratégia ou a realização dos 
-objetivos.  
-Gestão de Riscos  Processo para identificar, avaliar, administrar e 
-controlar potenciais eventos ou situações, para 
-fornecer razoável certeza quanto ao alcance dos 
-objetivos da organização.  
-Impacto/consequência  Efeito resultante da ocorrência do evento.  
-Incerteza  Incapacidade de saber com antecedência a real 
-probabilidade ou impacto de eventos futuros.   
- 
- 
- 
- 
- 
- 
- 
- 
- 12/13 
- 
-Indicador chave de risco  Métrica que indica se a organização está sujeita ou tem 
-alta probabilidade de estar sujeita a um risco que 
-excede o apetite de risco da organização.  
-Interlocutor de riscos  Agente público designado pelo gestor do processo de 
-negócio para representá-lo, e atuar na Gestão de 
-Riscos. 
-Manuais de Gestão de Riscos  Documentos que servem como um guia prático para a 
-aplicação das Normas de Gestão de Riscos.  
-Matriz de riscos  Ferramenta para classificar e apresentar riscos 
-definindo faixas para consequência e probabilidade.  
-Modelo de Linhas do Instituto 
-dos Auditores Externos do 
-Brasil Modelo que define papéis e responsabilidades na 
-Gestão de Riscos:  
- 
- 1ª linha: gerencia riscos
-  
- 2ª linha: supervisiona riscos
-  
- 3ª linha: fornece avaliações independentes.  
-Monitoramento dos riscos   Acompanhamento dos indicadores de riscos
-  
- 
- Supervisão da implantação e manutenção dos 
-planos de ação e do alcance das metas 
-estabelecidas
-  
-Nível de risco  Magnitude de um risco, expressa em termos da 
-combinação das consequências e de suas 
-probabilidades.  
-Nível de maturidade em Gestão 
-de Riscos  Métrica que permite aferir a maturidade em gestão de 
-riscos da organização.  
-Normas de Gestão de Riscos  Instrumentos normativos destinados a estabelecer 
-princípios de uniformização de processos, 
-especificando diretrizes básicas necessárias à Gestão 
-de Riscos.   
- 
- 
- 
- 
- 
- 
- 
- 
- 13/13 
- 
-Plano corporativo de resposta 
-aos riscos  Plano de resposta para os riscos corporativos com 
-impacto potencialmente elevado para o negócio, e 
-que deve ter a gestão priorizada e os controles 
-monitorados regularmente.  
-Plano de gestão de riscos  Esquema dentro da estrutura de gestão de riscos, que 
-especifica a abordagem, os componentes de gestão e 
-os recursos a serem aplicados para gerenciar riscos.  
-Política de Gestão de Riscos  Declaração das intenções e diretrizes gerais de uma 
-organização relacionadas à Gestão de Riscos.  
-Probabilidade  Possibilidade de ocorrência de um evento.  
-Processo de Gestão de Riscos  Aplicação sistemática de políticas, procedimentos e 
-práticas de gestão para as atividades de comunicação, 
-consulta, estabelecimento do contexto, e na 
-identificação, análise, avaliação, tratamento, 
-monitoramento e análise crítica dos riscos.  
-Resposta aos riscos  Qualquer ação adotada para lidar com risco, podendo 
-consistir em:  
- Aceitar o risco por uma escolha consciente
-  
- 
- Transferir ou compartilhar o risco a outra parte
-  
- 
- Evitar o risco pela decisão de não iniciar ou 
-descontinuar a atividade que dá origem ao risco
- ou  
- 
- Mitigar ou reduzir o risco diminuindo sua 
-probabilidade de ocorrência ou minimizando suas 
-consequências.  
-Risco Efeito da incerteza nos objetivos.  
-Tolerância a riscos  Nível de variação aceitável quanto à realização dos 
-objetivos em função das ameaças ou impactos 
-relacionados a riscos.  
+ Aqui está a reescrita do texto:
+
+---
+
+**2/13**
+
+**LUIS FELIPE SALIN MONTEIRO**  
+Conselheiro
+
+**CHRISTIANE ALMEIDA EDINGTON**  
+Conselheira
+
+**LEONARDO JOSÉ ROLIM GUIMARÃES**  
+Conselheiro
+
+**ANTÔNIO CARLOS VILLELA SEQUEIRA**  
+Conselheiro
+
+**NATALISIO DE ALMEIDA JUNIOR**  
+Conselheiro
+
+**LUIZ DE BARROS BELLOTTI**  
+Conselheiro
+
+---
+
+**3/13**
+
+**Anexo**
+
+**Política de Gestão de Riscos da DATAPREV**
+
+**1. Justificativa**
+
+A Dataprev opera em um ambiente altamente complexo, competitivo e em constante mudança, o que exige da empresa uma adaptação contínua, rápida e eficaz. A imprevisibilidade é uma constante em decisões administrativas, econômicas, operacionais, legais, tecnológicas e políticas. Uma abordagem estruturada de Gestão de Riscos é crucial para enfrentar esses desafios.
+
+Riscos não gerenciados adequadamente podem ameaçar a realização dos objetivos, o cumprimento de prazos, a continuidade dos serviços, a utilização adequada dos recursos públicos e a qualidade dos serviços prestados aos cidadãos.
+
+O processo de Gestão de Riscos é essencial para cumprir a missão da Dataprev, garantindo serviços de qualidade, aumentando a confiança dos cidadãos na capacidade da empresa de entregar o prometido, e assegurando a adequada execução da estratégia e alcance da visão.
+
+Implementar um processo estruturado de Gestão de Riscos é estratégico para mitigar riscos que possam impactar negativamente o ambiente da Dataprev, fortalecendo sua imagem e promovendo uma gestão proativa.
+
+**2. Objetivos**
+
+Os objetivos da Gestão de Riscos são:
+
+- Sistematizar processos e informações relacionadas a riscos, fornecendo informações suficientes para reduzir a probabilidade e o impacto de perdas.
+- Permitir que gestores monitorem aspectos relacionados aos riscos de processos, atividades e projetos sob sua responsabilidade.
+- Integrar informações sobre riscos ao Planejamento Estratégico da Dataprev e outros processos de planejamento.
+- Promover a melhoria contínua dos processos de tomada de decisão da empresa.
+- Facilitar a identificação de oportunidades e ameaças.
+- Aumentar a probabilidade de alcançar os objetivos da Dataprev, reduzindo riscos a níveis aceitáveis.
+- Aprimorar os controles internos existentes e estabelecer novos, quando necessário.
+
+**3. Abrangência**
+
+A Política de Gestão de Riscos da Dataprev aplica-se a:
+
+- Todos os empregados, extraquadro, estagiários, jovens aprendizes e colaboradores de qualquer natureza jurídica, incluindo fornecedores contratados pela Dataprev.
+- Todos os ambientes físicos da Dataprev, incluindo sede, filiais, unidades de desenvolvimento e outros locais pertencentes ao patrimônio ou sob custódia da Dataprev.
+
+**4. Compromisso**
+
+A Dataprev reafirma seu compromisso com a melhoria contínua da governança através da implementação da Gestão de Riscos, contribuindo para o cumprimento da missão e objetivos da organização. A empresa está comprometida com as leis, regulamentos, normas e diretrizes aplicáveis à Gestão de Riscos na Administração Pública Federal.
+
+**5. Referências Legais e Normativas**
+
+Preceitos legais desta Política:
+
+- Lei 13.303 de 30 de junho de 2016 – Estabelece o estatuto jurídico das empresas públicas, sociedades de economia mista e suas subsidiárias no âmbito da União, Estados, Distrito Federal e Municípios.
+- Decreto 8.945 de 27 de dezembro de 2016 – Regulamenta a Lei 13.303/2016.
+- Resolução CGPAR nº 18 de 10 de maio de 2016 – Orienta empresas estatais na implementação de Políticas de Conformidade e Gerenciamento de Riscos.
+- Instrução Normativa Conjunta MPOG/CGU nº 01 de 10 de maio de 2016 – Dispõe sobre controles internos, gestão de riscos e governança no Poder Executivo Federal.
+- Decreto 9.203 de 23 de novembro de 2017 – Estabelece a política de Governança da Administração Pública Federal.
+- Portaria CGU 1.089 de 25 de abril de 2018 – Orienta órgãos e entidades da Administração Pública Federal sobre medidas contra fraudes e corrupção.
+
+Referências normativas:
+
+- Norma ABNT NBR ISO 31000:2018 – Gestão de Riscos – Princípios e diretrizes.
+- Norma ABNT ISO GUIA 73:2009 – Gestão de Riscos – Vocabulário.
+- Norma ABNT NBR ISO 31010:2012 – Gestão de Riscos – Técnicas para o processo de avaliação de riscos.
+- Norma ABNT NBR ISO 31004:2015 – Gestão de Riscos – Guia para implementação da ABNT ISO 31000.
+- COSO (Committee of Sponsoring Organizations of the Treadway Commission) – Gerenciamento de Riscos Corporativos, versão 2017.
+- COSO – Estrutura Integrada de Controles Internos, versão 2013.
+- Modelo de Três Linhas do Instituto dos Auditores Internos do Brasil, versão 2020.
+
+**6. Princípios**
+
+Princípios fundamentais da Política:
+
+- Aplicação da metodologia de Gestão de Riscos em todas as práticas e processos organizacionais da Dataprev para garantir a identificação, análise e tratamento de eventos de riscos.
+- Comprometimento da Alta Administração com a aplicação da Gestão de Riscos em toda a empresa.
+- Utilização da Gestão de Riscos como ferramenta para obter informações úteis à tomada de decisão e para manter os riscos dentro de padrões definidos.
+- Adoção de uma linguagem padrão de Gestão de Riscos para facilitar o entendimento entre as partes envolvidas.
+- Realização de treinamentos para promover o comprometimento de todos os colaboradores com a Gestão de Riscos.
+- Adoção de metodologias e padrões formalizados de Gestão de Riscos, reconhecidos pelo mercado.
+- Atuação independente das instâncias dedicadas à Gestão de Riscos, assegurada pelo Conselho de Administração e pela Diretoria Executiva.
+- Definição clara de papéis e responsabilidades, com atenção especial ao princípio da segregação de funções.
+- Implementação de infraestrutura adequada de tecnologia, processos e pessoas para a Gestão de Riscos.
+- Adoção do Modelo de Três Linhas do Instituto dos Auditores Internos do Brasil como base para a estrutura de Gestão de Riscos.
+
+**7. Diretrizes Gerais**
+
+Diretrizes para a implementação da Política de Gestão de Riscos:
+
+- Implementar a Gestão de Riscos para demonstrar o cumprimento dos objetivos da empresa e melhorar o desempenho em qualidade dos produtos, gestão de projetos, eficiência, conformidade legal e aceitação pública.
+- Tratar prioritariamente os riscos mais críticos e relevantes.
+- Formalizar a Gestão de Riscos por meio de normas e manuais.
+- Definir e atualizar periodicamente o apetite e tolerância a riscos da empresa.
+- Estabelecer um ambiente de Gestão de Riscos que permita visão integrada dos impactos e respostas aos riscos.
+- Manter registros das atividades de Gestão de Riscos para responsabilidade, prestação de contas e melhoria contínua.
+- Disseminar a Política e o suporte metodológico para todas as instâncias da empresa e criar uma cultura corporativa de Gestão de Riscos.
+- Implementar controles internos proporcionais à relevância dos riscos.
+- Revisar e avaliar periodicamente os riscos e controles internos.
+- Elaborar e submeter relatórios de avaliação de riscos e controles internos à Alta Direção.
+- Automatizar controles internos quando justificado pelo volume ou complexidade.
+- Alinhar as ações das unidades de Conformidade, Integridade e Auditoria Interna com a área de Gestão de Riscos.
+- Classificar os riscos nas seguintes categorias:
+  - **Riscos Estratégicos**: Relacionados às decisões estratégicas e à capacidade da empresa de proteger-se ou adaptar-se a mudanças externas.
+  - **Riscos Operacionais**: Associados a falhas, deficiências ou inadequações em processos, pessoas, infraestrutura e sistemas.
+  - **Riscos Financeiros**: Comprometimento da capacidade financeira e incertezas sobre retornos esperados de investimentos.
+  - **Riscos Regulatórios**: Alterações legislativas ou normativas, inadequação a requisitos regulatórios ou multas.
+  - **Riscos à Integridade**: Fraudes, desvios de conduta ética, corrupção, conflitos de interesse e compromissos com valores e padrões da empresa.
+
+**8. Responsabilidades**
+
+Responsabilidades da Gestão de Riscos:
+
+- **Conselho de Administração**:
+  - Apoiar a implementação e acompanhamento do processo de Gestão de Riscos, delegando a supervisão à Diretoria Executiva.
+  - Aprovar a Política de Gestão de Riscos.
+  - Aprovar o nível de Apetite a Risco proposto pela Diretoria Executiva.
+
+
+**Conselho Fiscal**
+- Fiscalizar os atos dos administradores relacionados à Gestão de Riscos e assegurar o cumprimento dos deveres legais e estatutários.
+
+**Comitê de Auditoria Estatutário**
+- Monitorar a qualidade e integridade do processo de Gestão de Riscos.
+- Avaliar e monitorar as exposições a riscos da Dataprev.
+
+**Diretoria Executiva**
+- Propor o Apetite a Risco da Dataprev, especialmente durante a definição dos objetivos estratégicos.
+- Definir o limite de tolerância a riscos para cada nível de prioridade na Matriz de Riscos, estabelecendo estratégias e governança para responder a esses riscos.
+- Deliberar sobre as medidas necessárias para alinhar o Apetite a Risco com a execução das estratégias da Dataprev.
+- Aprovar a priorização dos processos para a Gestão de Riscos.
+- Incorporar o monitoramento regular de Indicadores Chave de Risco nos processos de governança e gestão.
+- Notificar regularmente o Conselho de Administração sobre as exposições a riscos, destacando os mais críticos e os planos de resposta.
+- Aprovar metas para o nível de maturidade desejado da Dataprev em Gestão de Riscos e monitorar o progresso para atingir ou manter esse nível.
+- Oferecer programas de capacitação e aperfeiçoamento em Gestão de Riscos.
+- Promover a integração da Gestão de Riscos com os ciclos de planejamento da Dataprev.
+- Garantir a implementação do processo de Gestão de Riscos.
+
+**Superintendência Colegiada**
+- Orientar a integração da Gestão de Riscos nos processos organizacionais.
+- Validar e revisar periodicamente a matriz de riscos da Dataprev.
+- Validar a priorização dos processos para a Gestão de Riscos.
+- Validar metas para o nível de maturidade desejado da Dataprev em Gestão de Riscos e monitorar o progresso para atingir ou manter esse nível.
+- Avaliar e recomendar revisões na estrutura de controles internos e nos planos de resposta aos riscos.
+- Promover o debate sobre riscos ao tratar de assuntos estratégicos e operacionais.
+
+**Auditoria Interna**
+- Avaliar a efetividade do processo de Gestão de Riscos, verificando se os procedimentos estão em conformidade com a Política de Gestão de Riscos e a eficácia dos controles internos estabelecidos em resposta aos riscos avaliados, oferecendo recomendações e orientações.
+
+**Órgão responsável pela Gestão de Riscos**
+- Propor, acompanhar, atualizar e disseminar normas e metodologias de Gestão de Riscos e Controles Internos para a Empresa.
+- Propor e revisar a Política de Gestão de Riscos, comunicando-a a todo o corpo funcional e obtendo aprovação do Conselho de Administração.
+- Avaliar e propor melhorias nos processos sob a ótica de Gestão de Riscos e Controles Internos.
+- Propor, manter e disseminar ferramentas para Gestão de Riscos e Controles Internos.
+- Apoiar, orientar e acompanhar os gestores na execução das atividades de Gestão de Riscos e Controles Internos.
+- Disseminar conhecimentos em Gestão de Riscos e Controles Internos por meio de capacitação e treinamentos.
+- Zelar pela efetividade e aplicação das Normas de Gestão de Riscos e Controles Internos.
+- Coordenar a identificação, classificação e avaliação dos riscos enfrentados pela Empresa.
+- Coordenar a elaboração e monitorar os planos de ação para mitigar riscos identificados, verificando continuamente a adequação e a eficácia da Gestão de Riscos.
+- Elaborar relatórios periódicos sobre suas atividades e submetê-los à Diretoria Executiva, ao Conselho de Administração e ao Comitê de Auditoria Estatutário.
+- Estabelecer uma linguagem comum de Gestão de Riscos, incluindo medidas de probabilidade, impacto e categorias de riscos, respeitando as especificidades das áreas e processos.
+- Propor a priorização dos processos para a Gestão de Riscos.
+- Propor metas para o nível de maturidade desejado da Dataprev em Gestão de Riscos e monitorar o progresso para atingir ou manter esse nível.
+- Definir, orientar e monitorar funções e responsabilidades na Gestão de Riscos dentro da empresa.
+
+**Gestores de Processos, Projetos e Programas**
+- Assegurar que os riscos sejam gerenciados conforme a Política de Gestão de Riscos da Dataprev.
+- Implementar ações de tratamento e monitorar os riscos ao longo do tempo para garantir que as respostas adotadas mantenham os riscos em níveis adequados.
+- Promover a divulgação dos riscos relacionados aos processos, projetos e programas sob sua gestão.
+
+**Interlocutores de Riscos**
+- Atuar como interface entre as áreas da Empresa e a área de Gestão de Riscos.
+- Realizar a Gestão de Riscos conforme orientação do gestor responsável.
+
+**Atualização**
+- A Política de Gestão de Riscos da Dataprev deve ser revisada a cada dois anos ou quando ocorrerem mudanças significativas.
+
+**Disposições Finais**
+- Os casos omissos, situações especiais e diretrizes adicionais para a implementação da Política devem ser analisados e decididos pela Diretoria Executiva.
+- Esta Política e outros procedimentos da Gestão de Riscos devem estar alinhados com as diretrizes do Governo Federal e a legislação vigente.
+
+**Glossário**
+
+**Apetite a Risco**
+- Grau de exposição aos riscos que a organização está disposta a aceitar para atingir seus objetivos.
+
+**Controles Internos**
+- Conjunto de regras, procedimentos e diretrizes operacionalizados para enfrentar riscos e fornecer segurança na consecução dos objetivos da organização.
+
+**Estrutura da Gestão de Riscos**
+- Conjunto de componentes que fornecem fundamentos e arranjos organizacionais para a concepção, implementação, monitoramento, análise crítica e melhoria contínua da gestão de riscos.
+
+**Evento**
+- Incidente ou ocorrência que afeta a implementação da estratégia ou a realização dos objetivos.
+
+**Gestão de Riscos**
+- Processo de identificar, avaliar, administrar e controlar potenciais eventos ou situações para garantir o alcance dos objetivos da organização.
+
+**Impacto/Consequência**
+- Efeito resultante da ocorrência do evento.
+
+**Incerteza**
+- Incapacidade de prever com exatidão a probabilidade ou impacto de eventos futuros.
+
+**Indicador Chave de Risco**
+- Métrica que indica se a organização está sujeita ou tem alta probabilidade de estar sujeita a um risco que excede o apetite de risco da organização.
+
+**Interlocutor de Riscos**
+- Agente designado para representar o gestor do processo de negócio e atuar na Gestão de Riscos.
+
+**Manuais de Gestão de Riscos**
+- Documentos que servem como guia prático para a aplicação das Normas de Gestão de Riscos.
+
+**Matriz de Riscos**
+- Ferramenta para classificar e apresentar riscos, definindo faixas para consequência e probabilidade.
+
+**Modelo de Linhas do Instituto dos Auditores Externos do Brasil**
+- Modelo que define papéis e responsabilidades na Gestão de Riscos:
+  - 1ª linha: Gerencia riscos
+  - 2ª linha: Supervisiona riscos
+  - 3ª linha: Fornece avaliações independentes.
+
+**Monitoramento dos Riscos**
+- Acompanhamento dos indicadores de riscos e supervisão da implantação e manutenção dos planos de ação e do alcance das metas estabelecidas.
+
+**Nível de Risco**
+- Magnitude de um risco, expressa pela combinação das consequências e suas probabilidades.
+
+**Nível de Maturidade em Gestão de Riscos**
+- Métrica que avalia a maturidade em gestão de riscos da organização.
+
+**Normas de Gestão de Riscos**
+- Instrumentos normativos que estabelecem princípios e diretrizes para a Gestão de Riscos.
+
+**Plano Corporativo de Resposta aos Riscos**
+- Plano para riscos corporativos com impacto elevado para o negócio, com gestão priorizada e controles monitorados regularmente.
+
+**Plano de Gestão de Riscos**
+- Esquema que especifica a abordagem, componentes e recursos para gerenciar riscos.
+
+**Política de Gestão de Riscos**
+- Declaração das intenções e diretrizes gerais da organização relacionadas à Gestão de Riscos.
+
+**Probabilidade**
+- Possibilidade de ocorrência de um evento.
+
+**Processo de Gestão de Riscos**
+- Aplicação sistemática de políticas, procedimentos e práticas para comunicação, consulta, estabelecimento do contexto, identificação, análise, avaliação, tratamento, monitoramento e análise crítica dos riscos.
+
+**Resposta aos Riscos**
+- Ação adotada para lidar com riscos, podendo incluir:
+  - Aceitar o risco conscientemente
+  - Transferir ou compartilhar o risco
+  - Evitar o risco
+  - Mitigar ou reduzir o risco
+
+**Risco**
+- Efeito da incerteza nos objetivos.
+
+**Tolerância a Riscos**
+- Nível de variação aceitável na realização dos objetivos em função das ameaças ou impactos relacionados a riscos.
  
